@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==wdfNET0IGSHdHOvFFMuhFc1hUO3Ykcvdmb5QUdSVzRvpEOBVTTEdlbUVkZjIVNM12QGV0Ypwd=855378190329',
+  SESSION_ID: 'QUEENELISA;;;==AOhREUtQmQkBzVfZGZPJGe2RGWwgTb5p1d6J2NUNHUzEDZZRkRCVGTqRzajsUYKREbsFlTpwd=502307081329',
   ALIVE_REACT: '🫀',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -23,9 +23,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PREFIX: '.&#',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '👑𝙕𝘼𝙄𝙉 𝙎𝙃𝘼𝙃👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏',
-  OWNER_NAME: '👑𝙕𝘼𝙄𝙉 𝙎𝙃𝘼𝙃👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏',
-  OWNER_NUMBER: '923091873558',
+  BOT_NAME: '👑𝙒𝘼𝙃𝘼𝘽 𝙆𝙃𝘼𝙉👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏',
+  OWNER_NAME: '👑𝙒𝘼𝙃𝘼𝘽 𝙆𝙃𝘼𝙉👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏',
+  OWNER_NUMBER: '923180703205',
   SUDO: '923074060856',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
@@ -35,7 +35,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   STICKER_PACK: '👑𝙕𝘼𝙄𝙉 𝙎𝙃𝘼𝙃👑',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 524,
-  OWNER_R_EMOJI: '🫀',
+  OWNER_R_EMOJI: '🖤',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: true,
   INBOX_BLOCK: false,
