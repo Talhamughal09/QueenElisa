@@ -20,7 +20,7 @@ module.exports = {
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: 'mongodb+srv://alinawab030740:Wu9ek9RhU1PFsWpq@cluster0.56gqgfx.mongodb.net/', 
-  PREFIX: '.&#',
+  PREFIX: '/',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '👑☆𝒉𝒂𝒃𝒊𝒃 𝒉𝒚𝒖𝒏𝒋𝒊𝒏المسلمين🇵🇸𓊉💙👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏',
